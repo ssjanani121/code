@@ -42,4 +42,4 @@ All legacy recipes retain their original license. Please see the LICENSE file in
 Recipes don't always have to be code - great documentation, tutorials, general tips and even general improvements to our [wiki](https://github.com/ActiveState/code/wiki)
 are greatly appreciated.
 
-Thanks
+Thankss!
